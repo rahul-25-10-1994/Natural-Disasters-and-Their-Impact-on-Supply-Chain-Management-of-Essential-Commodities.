@@ -1,0 +1,2 @@
+# Natural-Disasters-and-Their-Impact-on-Supply-Chain-Management-of-Essential-Commodities.
+The first dataset used 120 years of damage data to plot a heat map and identify the most damaging disaster in India, which was found to be floods. A linear regression model was applied on third dataset to predict the importance of commodities during both high and low flood years and to rank the top 20 most needed items.
